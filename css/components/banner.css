@@ -1,0 +1,27 @@
+.banner{
+	background-image: url(../../images/homecuisine.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+
+
+}
+
+.banner h1{
+	text-align: center;
+	font-size: 100px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #0c4524;
+
+}
+
+.banner a{
+	position: relative;
+	left: 300px;
+}
+
+
+img{
+	width: 700px;
+}

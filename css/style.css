@@ -1,0 +1,22 @@
+@import url('components/card.css');
+@import url('components/button.css');
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@500&display=swap');
+
+
+a{
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+
+}
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	background-color: lightgreen;
+	color: black;
+}
+
+
+
+
